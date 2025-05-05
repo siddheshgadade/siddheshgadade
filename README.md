@@ -47,7 +47,7 @@
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/siddhesh-gadade" target="_blank">
+  <a href="https://www.linkedin.com/in/siddhesh-gadade-8813412b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:siddheshgadade3@gmail.com">
