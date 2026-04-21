@@ -3,7 +3,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/siddhesh-gadade-8813412b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siddheshgadade3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://siddhesh00.github.io"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://siddheshgadade.github.io"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshgadade&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="siddheshgadade trophies" /></a>
 </p>
 
 ---
@@ -24,15 +28,15 @@ I am an **M.Sc. Computer Science candidate** bridging the gap between advanced r
 
 ### 🏆 Featured Master's Projects
 <p align="center">
-<a href="https://github.com/Siddhesh00/NeuroPlay"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=NeuroPlay-Mental-Health-App&theme=dark&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" /></a>
-<a href="https://github.com/Siddhesh00/PSO-Climate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=PSO-Temperature-Optimization&theme=dark&bg_color=0d1117&title_color=10b981&icon_color=10b981" /></a>
+<a href="https://github.com/siddheshgadade/NeuroPlay-Mental-Health-App"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=NeuroPlay-Mental-Health-App&theme=dark&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" /></a>
+<a href="https://github.com/siddheshgadade/PSO-Temperature-Optimization"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=PSO-Temperature-Optimization&theme=dark&bg_color=0d1117&title_color=10b981&icon_color=10b981" /></a>
 </p>
 
 <br />
 
 <p align="center">
-<a href="https://github.com/Siddhesh00/ClarifAI"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=ClarifAI---RAG-Based-Customer-Support-System&theme=dark&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b" /></a>
-<a href="https://github.com/Siddhesh00/AstroFix"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=AstroFix-Zero-G-Protocol&theme=dark&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6" /></a>
+<a href="https://github.com/siddheshgadade/ClarifAI---RAG-Based-Customer-Support-System"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=ClarifAI---RAG-Based-Customer-Support-System&theme=dark&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b" /></a>
+<a href="https://github.com/siddheshgadade/AstroFix-Zero-G-Protocol"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siddheshgadade&repo=AstroFix-Zero-G-Protocol&theme=dark&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6" /></a>
 </p>
 
 ---
@@ -45,13 +49,6 @@ I am an **M.Sc. Computer Science candidate** bridging the gap between advanced r
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshgadade&theme=transparent&fire=3b82f6&ring=10b981&sideNums=3b82f6&stroke=e5e7eb&currStreakLabel=3b82f6&hide_border=true" width="100%" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddheshgadade&theme=transparent" width="100%" />
 </p>
 
 ---
