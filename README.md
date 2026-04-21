@@ -1,66 +1,57 @@
-#
-
 <h1 align="center">Hi 👋, I'm Siddhesh Gadade</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer and Master's Student in Computer Science</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Data Engineering Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddheshgadade&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-🔭 I’m currently pursuing my **Master's in Computer Science**  
-🌱 Actively learning cutting-edge technologies like **Blockchain, ML, NLP, Cybersecurity, and DevOps**  
-💼 Aspiring **Full Stack Developer** passionate about building scalable and secure applications  
-💬 Ask me about **Python, Android, Firebase, Web Dev, Java, Cloud, QA Testing, and even Unity basics!**  
-📫 Reach me at **siddheshgadade3@gmail.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/siddhesh-gadade-8813412b8/)
+<p align="center">
+  I am a Master's student in Computer Science and a passionate software developer who loves building intelligent, data-driven systems. From engineering <strong>RAG-based AI pipelines</strong> and <strong>Spatial Databases</strong> to designing <strong>WebXR zero-gravity interfaces</strong>, I focus on bridging the gap between robust backend architectures and highly interactive user experiences.
+</p>
 
 ---
 
-### 🧠 Currently Exploring
-- 🛠️ Blockchain & Advanced Mining Techniques  
-- 🤖 Machine Learning & Natural Language Processing  
-- 🔐 Cybersecurity & Information Assurance  
-- 🧪 Research Projects and Data Science Applications  
-- 🔧 DevOps, Cloud Deployment & Social Network Analysis
+### 🚀 What I'm Up To
+- 🔭 **Currently Building:** Scalable MERN stack architectures, native Android applications, and Generative AI solutions.
+- 🌱 **Deep Diving Into:** Retrieval-Augmented Generation (RAG), Advanced NoSQL/Oracle Spatial Data Modeling, and Machine Learning optimization (PSO).
+- 💼 **Open To:** Full-time roles in Software Engineering, Full-Stack Development, and Backend/Data Engineering.
+- 💬 **Ask Me About:** Python, React, FastAPI, Firebase, Android Native, and Multimodal HCI.
+
+---
+
+### 🏆 Featured Engineering Work
+* 🤖 **RAG Customer Support AI:** A React + FastAPI system using FAISS vector embeddings to eliminate LLM hallucinations.
+* 🦷 **Pearl Dental App:** A native Android clinic management system featuring role-based access, Firebase real-time syncing, and Razorpay integration.
+* 🌌 **AstroFix (WebXR):** An immersive, browser-based zero-gravity simulation using MediaPipe hand-tracking and Voice UI.
+* 🚨 **DisasterGrid (NoSQL):** A polymorphic MERN stack proof-of-concept for real-time heterogeneous IoT data ingestion.
 
 ---
 
 ### ⚙️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,firebase,androidstudio,vscode,git,github,linux,rstudio,unity,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,fastapi,mongodb,postgres,firebase,androidstudio,git,linux,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddheshgadade1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshgadade1&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddheshgadade1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshgadade1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-### 📌 Fun Fact:
-> I’m deeply curious, self-driven, and always chasing what’s next in tech — whether it's building full-stack apps, exploring decentralized systems, or analyzing networks with SNA tools.
 
 ---
 
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhesh-gadade-8813412b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:siddheshgadade3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
----
-
-<!-- Feel free to update this regularly as your journey grows -->
-
-### ✨ Quote That Inspires Me
+<br>
 
 > *"Strive not to be a success, but rather to be of value." – Albert Einstein*
