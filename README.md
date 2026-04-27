@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/siddhesh-gadade-8813412b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siddheshgadade3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://siddheshgadade.github.io"><img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
+  <a href="https://siddhesh-portfolio-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
 </p>
 
 ---
