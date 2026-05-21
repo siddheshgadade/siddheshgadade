@@ -34,7 +34,7 @@ siddhesh = {
     "location"   : "Navi Mumbai, Maharashtra 🇮🇳",
     "skills"     : ["Python", "React", "Flask", "FastAPI", "MySQL", 
                     "REST APIs", "Postman", "Machine Learning"],
-    "fun_fact"   : "Lost 26 kgs through discipline — same mindset I bring to code 💪"
+    "fun_fact"   : "fun_fact": "I read documentation for fun — yes, seriously 📖"
 }
 ```
 
